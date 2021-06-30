@@ -7,7 +7,7 @@ In this project we make a chatbot using deep learning.
 
 ## Description:
 This project is consist of two seperate projects (main and side) that uses different methods to train itself to asnwer the question we give them. The main project uses seq2seq mehod and the side project we are using tflearn. In both we read and import our dataset by using tokenizer to convert our input dataset to fit our model.
-For executing the project we will be needing to install and import the material that are written bellow:
+For executing the project we will be needing to install and import these materials:
 tflearn, nltk, tensorflow, keras, pickle, re, os and make sure to use numpy library.
 
 ### Dataset
