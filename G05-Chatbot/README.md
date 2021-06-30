@@ -2,7 +2,7 @@
 In this project we make a chatbot using deep learning.
 
 ## Team Members:
-- Saeed Sayyad (960122680008)
+- Saeed Sayad (960122680008)
 - Kimia Abedini (960122680027)
 
 ## Description:
