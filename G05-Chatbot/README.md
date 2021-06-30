@@ -17,4 +17,4 @@ The main project dataset is [chatterbot/english](https://www.kaggle.com/kausr25/
 [introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 
 ### Reports
-You can find project report in chatbot section in form of pdf and in form of video [Here](https://drive.google.com/file/d/1pF3A_XKDeIdum1LCahyWf3c6Zt68L6z3/view?usp=sharing).
+You can find project report in form of pdf in chatbot section and in form of video [Here](https://drive.google.com/file/d/1pF3A_XKDeIdum1LCahyWf3c6Zt68L6z3/view?usp=sharing).
